@@ -1,0 +1,4 @@
+Streamlit==1.17.0
+plotly
+pandas
+pickle
