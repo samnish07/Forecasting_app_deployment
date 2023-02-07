@@ -1,4 +1,0 @@
-plotly
-graph_objs
-pandas
-pickle
